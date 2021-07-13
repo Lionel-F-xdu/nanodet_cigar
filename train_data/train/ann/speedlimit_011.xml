@@ -1,0 +1,26 @@
+<annotation>
+	<folder>limit_speed</folder>
+	<filename>speedlimit_011.jpg</filename>
+	<path>/home/fu/PycharmProjects/nanodet_cigar/train_data/train/img/speedlimit_011.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>limit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>14</ymin>
+			<xmax>157</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>

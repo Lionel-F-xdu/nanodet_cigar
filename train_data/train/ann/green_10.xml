@@ -1,0 +1,26 @@
+<annotation>
+	<folder>green</folder>
+	<filename>green_10.jpg</filename>
+	<path>/home/fu/PycharmProjects/nanodet_cigar/train_data/train/img/green_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>2</ymin>
+			<xmax>144</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>

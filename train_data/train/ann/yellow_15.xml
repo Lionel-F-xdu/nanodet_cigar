@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yellow</folder>
+	<filename>yellow_15.jpg</filename>
+	<path>/home/fu/PycharmProjects/nanodet_cigar/train_data/train/img/yellow_15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>1</ymin>
+			<xmax>143</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>
